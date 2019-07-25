@@ -1,0 +1,16 @@
+{
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
+  "rules": {
+    "prettier": true,
+    "interface-name": false,
+    "no-duplicate-imports": false,
+    "ordered-imports":false,
+    "object-literal-sort-keys":false,
+    "no-submodule-imports":[
+      true,
+      "react-icons",
+      "rc-drawer"
+    ]
+  }
+}
