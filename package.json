@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-typescript-styledcomponents",
+  "version": "1.0.0",
+  "description": "gatsy starter with typescript and styled components",
+  "main": "index.js",
+  "repository": "https://github.com/KrisTemmerman/gatsby-typescript-styledcomponents.git",
+  "author": "Kris Temmerman <kris@krisdevs.com>",
+  "license": "MIT",
+  "private": false
+}
